@@ -7,7 +7,7 @@ Un projet dans lequel on imagine le futur de manière naive.
 - On tire au sort un sujet
 - Chaque semaine
 - On en parle pendant 30 minutes
-- Ce qui a été dit se fige dans un lore que nous devrons prendre en compte ensuite
+- Ce qui a été dit se fige dans un lore que nous devrons respecter
 - Nous publions au moins une fois par mois
 - Pas de contrainte sur la forme (podcast, article, illustration...)
 
