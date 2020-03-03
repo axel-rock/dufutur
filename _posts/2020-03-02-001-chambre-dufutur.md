@@ -1,4 +1,7 @@
-# #001 Chambre - Dufutur
+---
+layout: post
+title:  "#001 Chambre - Dufutur"
+---
 
 Dans ce premier épisode, on imagine la chambre du futur.
 
