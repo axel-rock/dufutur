@@ -3,7 +3,7 @@ layout: page
 title: "Dufutur"
 ---
 
-## Bienvenue sur Dufutur
+## Bienvenue sur le site Dufutur
 
 Un projet dans lequel on imagine le futur de manière naive.
 
