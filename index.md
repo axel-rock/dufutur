@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Dufutur"
+---
+
 ## Bienvenue sur Dufutur
 
 Un projet dans lequel on imagine le futur de manière naive.
