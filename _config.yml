@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -46,3 +47,7 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+=======
+remote_theme: aspirethemes/type
+paginate: 5
+>>>>>>> aa8e6093af144d25e4b1dbdb0b678ad615ff5588
