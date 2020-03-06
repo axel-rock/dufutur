@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '#001 Chambre - Dufutur'
+title:  '#001 La chambre - Dufutur'
 image: '/images/posts/8.jpg'
 ---
 

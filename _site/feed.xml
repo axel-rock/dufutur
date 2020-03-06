@@ -3,26 +3,26 @@
   <channel>
     <title>Dufutur</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2020 19:22:18 +0100</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2020 19:22:18 +0100</lastBuildDate>
+    <link>https://dufutur.fr//</link>
+    <atom:link href="https://dufutur.fr//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Mar 2020 19:30:17 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2020 19:30:17 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
-        <title>#001 Chambre - Dufutur</title>
+        <title>#001 La chambre - Dufutur</title>
         <description>&lt;p&gt;Dans ce premier épisode, on imagine la chambre du futur.&lt;/p&gt;
 
 &lt;p&gt;Le 02/03/2020&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/03/02/001-chambre-dufutur/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/03/02/001-chambre-dufutur/</guid>
+        <link>https://dufutur.fr//001-chambre-dufutur</link>
+        <guid isPermaLink="true">https://dufutur.fr//001-chambre-dufutur</guid>
       </item>
     
       <item>
-        <title>#000 Pilote - Dufutur</title>
+        <title>#000 Le pilote - Dufutur</title>
         <description>&lt;p&gt;Présentation du projet et de ses règles.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://anchor.fm/axelrock/embed/episodes/000-Le-pilote---Dufutur-easagd/a-a1ld5aq&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
@@ -45,8 +45,8 @@
 &lt;p&gt;Retrouvez-nous sur Twitter: &lt;a href=&quot;https://twitter.com/frulko&quot;&gt;Guillaume&lt;/a&gt; et &lt;a href=&quot;https://twitter.com/nineties_panda&quot;&gt;Axel&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/03/02/000-pilote-dufutur/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/03/02/000-pilote-dufutur/</guid>
+        <link>https://dufutur.fr//000-pilote-dufutur</link>
+        <guid isPermaLink="true">https://dufutur.fr//000-pilote-dufutur</guid>
       </item>
     
 
@@ -76,7 +76,7 @@
 
 &lt;p&gt;Retrouvez-nous sur Twitter: &lt;a href=&quot;https://twitter.com/frulko&quot;&gt;Guillaume&lt;/a&gt; et &lt;a href=&quot;https://twitter.com/nineties_panda&quot;&gt;Axel&lt;/a&gt;.&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about.html</link>
+            <link>https://dufutur.fr//about.html</link>
           </item>
         
       

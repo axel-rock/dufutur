@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#000 Pilote - Dufutur"
+title:  "#000 Le pilote - Dufutur"
 ---
 
 Présentation du projet et de ses règles.
